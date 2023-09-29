@@ -9,10 +9,6 @@
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
         }
 
-        * {
-            text-align: center;
-        }
-
         table {
             border-collapse: collapse;
             width: 300px;
@@ -28,14 +24,24 @@
             border: 1px solid black;
             padding: 5px 30px 5px 30px;
         }
+
+        td.principal {
+            font-weight: bolder;
+        }
+
+        caption {
+            font-size: 1.1em;
+            padding: 10px;
+            font-weight: bolder;
+        }
     </style>
 </head>
 <body>
     <h1>Exercício de Tabelas</h1>
-    <caption>
-        Filmes favoritos
-    </caption>
     <table>
+        <caption>
+            Filmes favoritos
+        </caption>
         <thead>
             <tr>
                 <th>Grupo</th>
@@ -45,7 +51,7 @@
         </thead>
         <tbody>
             <tr>
-                <td rowspan="3" style="text-align: center;">Mulheres</td>
+                <td rowspan="3" style="text-align: center;" class="principal">Mulheres</td>
                 <td>Misa</td>
                 <td>Alien</td>
                 <td>Rambo</td>
@@ -66,7 +72,7 @@
         </tbody>
         <tbody>
             <tr>
-                <td rowspan="3" style="text-align: center;">Homens</td>
+                <td rowspan="3" style="text-align: center;" class="principal">Homens</td>
             <td>Shinji</td>
             <td>Intocáveis</td>
             <td>Amnésia</td>
