@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e gerenciar meus repositórios.
 
-<a href="https://screm1n.github.io/projeto-stronger"> Meu maior projeto dentro desse curso até o atual momento
+<a href="https://screm1n.github.io/socialmedia-project"> Meu maior projeto dentro desse curso até o atual momento
