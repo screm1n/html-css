@@ -4,4 +4,6 @@ body {
     background: url(../imagens/paisagem.jpg);
     background-position: left bottom;
     background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
