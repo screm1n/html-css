@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* declaraçoes gerais */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    width: 100vw;
+    height: 150vh;
+    background: #233EFF;
+}
+
+h1 {
+    color: white;
+    text-shadow: 2px 1.5px 2px rgba(0, 0, 0, 0.539);
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* declaraçoes retrato */
+@media screen and (orientation:portrait) {
+    body {
+    background: url(../imagens/retrato.jpg);
+    background-position: center bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+    }
+}
+/* declaraçoes paisagem */
+@media screen and (orientation:portrait) {
+    body {
+    background: url(../imagens/paisagem.jpg);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
+    }
+}
