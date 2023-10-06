@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+body {
+    background: url(../imagens/paisagem.jpg);
+    background-position: left bottom;
+}

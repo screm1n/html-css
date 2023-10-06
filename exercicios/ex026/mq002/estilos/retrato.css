@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+body {
+    background: url(../imagens/retrato.jpg);
+    background-position: center bottom;
+}
