@@ -12,7 +12,7 @@
 
 </ul>
 
-Meus projetos feitos na jornada desse curso em ordem:
+Meus projetos realizados na jornada desse curso em ordem:
 
 <ul> 
 <li><a href="screm1n.github.io/android-project/">Projeto de uma página da web simples com curiosidades sobre a origem da logo do Android</a>
