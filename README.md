@@ -1,5 +1,5 @@
 # html-css
- Curso de HTML5 e CSS3 do CursoemVideo. Foram 4 módulos concluídos com sucesso, dos quais se trataram:
+ Curso de HTML5 e CSS3 do CursoemVideo. Foram 4 módulos concluídos com sucesso, sendo eles:
 
 <ul>
 <li>Módulo 1: Conceitos básicos, preparação do ambiente, semântica do HTML5, textos, títulos, ligações, multimídia, estilos.
